@@ -1,0 +1,3 @@
+title: Project Websites with GitHub and Jekyll
+remote_theme: JeremyBuhler/rc_workshop_template
+footer_content: "<a href=\"https://github.com/username/repository-name/\">View workshop content in GitHub</a>"
