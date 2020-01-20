@@ -8,6 +8,12 @@ nav_order: 1
 For this workshop, we'll build a site locally first, then publish it to the web when we're ready and have some content. In order to work locally, we have to make sure that our computer has all the necessary software installed. The steps to do this below require some familiarity with working in your command-line interface, so if you don't feel comfortable doing this, please refer another workshop in this series: [Intro to the Unix Shell](https://ubc-library-rc.github.io/intro-shell/).
 
 ## Windows OS
+### Option 1: Install the RubyInstaller kit
+Windows isn't technically a Jekyll-supported platform, but we can still use the [RubyInstaller](https://rubyinstaller.org/) kit to run a self-contained environment on Windows machines. **[Use the instructions found here](https://jekyllrb.com/docs/installation/windows/#installation-via-rubyinstaller)**.
+
+### Option 2: Bash on Windows 10   
+Option 2 is for Windows 10 users only. On Windows 10, you can install and enable the **[Windows Subsection for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10?redirectedfrom=MSDN)**. This option might be useful to set up if you anticipate working on other projects that would require the Unix Shell. To do this [follow the instructions found here](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10).
+
 
 
 ## Mac OS
