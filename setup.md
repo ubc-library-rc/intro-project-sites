@@ -7,13 +7,13 @@ nav_order: 1
 
 For this workshop, we'll build a site locally first, then publish it to the web when we're ready and have some content. In order to work locally, we have to make sure that our computer has all the necessary software installed. The steps to do this below require some familiarity with working in your command-line interface, so if you don't feel comfortable doing this, please refer another workshop in this series: [Intro to the Unix Shell](https://ubc-library-rc.github.io/intro-shell/).
 
-#### Windows OS
+## Windows OS
 
 
-#### Mac OS
+## Mac OS
 The Mac operating system needs the Xcode suite to run several tools developers use to create software and applications. So to start, let's install it from the command line if you don't already have it.
 
-1. Install X-Code
+### Install X-Code
 
 First install **x-code**        
 <code>$ xcode-select --install</code>    
@@ -26,23 +26,23 @@ Verify you have git:
 <code>$ git --version</code>     
 Again, you should see a version number.    
 
-2. Install RVM   
+### Install RVM   
 Install the most recent stable version of **rvm**. Rvm will allow you to use different versions of Ruby (which we'll install next) for website projects, and for your operating system.    
 <code>$ curl -L https://get.rvm.io | bash -s stable</code>
 
 Now lets verify rvm was installed.    
 <code>$ rvm --version</code>    
 
-3. Install Ruby with RVM    
+### Install Ruby with RVM    
 
 Now install the most recent stable version of **Ruby** using rvm     
 <code>$ rvm install "ruby-2.7.0"</code>    
 
 Now then set that version as the default Ruby installation for our project    
-    <code>$ rvm --default use 2.7.0</code>
+<code>$ rvm --default use 2.7.0</code>    
 
-  Check that ruby is set to the version we configured
-    <code>$ ruby -v</code>
+Check that ruby is set to the version we configured    
+<code>$ ruby -v</code>     
 
 4. now generate the core Ruby documentation
   <code>$ rvm docs generate-ri</code>
