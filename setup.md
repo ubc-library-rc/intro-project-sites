@@ -5,10 +5,14 @@ permalink: /setup/
 nav_order: 1
 ---
 
-For this workshop, we'll build a site locally first, then publish it to the web when we're ready and have some content. In order to work locally, we have to make sure that our computer has all the necessary software installed. The steps to do this below require some familiarity with working in your command-line interface, so if you don't feel comfortable doing this, please refer another workshop in this series: [Intro to the Unix Shell](https://ubc-library-rc.github.io/intro-shell/){:target="_blank"}.
+For this workshop, we'll build a site locally first, then publish it to the web when we're ready and have some content. In order to work locally, we have to make sure that our computer has all the necessary software installed. The steps to do this below require some familiarity with working in your command-line interface, so if you don't feel comfortable doing this, please refer another workshop in this series: [Intro to the Unix Shell](https://ubc-library-rc.github.io/intro-shell/).
+
+You'll also want to be sure to have a good code editor on your machine to view and edit your code. We recommend using either [Atom](https://atom.io/){:target="_blank"}, [Sublime Text](https://www.sublimetext.com/){:target="_blank"}, or [Notepad++](https://notepad-plus-plus.org/){:target="_blank"}.
+{: .note}
 
 ## Windows OS
 Windows isn't technically a Jekyll-supported platform, but we do have two options that will allow us to work on Windows machines.
+
 ### Option 1: Install the RubyInstaller kit
  The [RubyInstaller](https://rubyinstaller.org/) kit will run a self-contained environment on Windows machines. **[Use the instructions found here](https://jekyllrb.com/docs/installation/windows/#installation-via-rubyinstaller){:target="_blank"}**.
 
