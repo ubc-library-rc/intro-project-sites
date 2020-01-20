@@ -18,19 +18,19 @@ The Mac operating system needs the Xcode suite to run several tools developers u
 First install **X-code**        
 <code>$ xcode-select --install</code>    
 
-This should install **GNU Compiler Ccllection (GCC)** and **Git**, but let's make sure. Verify you are running GCC:    
+This should install **GNU Compiler Ccllection (GCC)** and **Git**, but let's make sure. Verify you are running GCC    
 <code>$ gcc --version</code>    
-You should see a version number in your shell.    
+You should see a version number in your shell    
 
-Verify you have Git:    
+Verify you have Git    
 <code>$ git --version</code>     
-Again, you should see a version number.    
+Again, you should see a version number    
 
 ### Install RVM   
-Install the most recent stable version of **Ruby Version Manager (RVM)**. RVM will allow you to use different versions of Ruby (which we'll install next) for website projects, and for your operating system.    
+Install the most recent stable version of **Ruby Version Manager (RVM)**. RVM will allow you to use different versions of Ruby (which we'll install next) for website projects and your operating system     
 <code>$ curl -L https://get.rvm.io | bash -s stable</code>
 
-Now lets verify RVM was installed.    
+Now lets verify RVM was installed      
 <code>$ rvm --version</code>    
 
 ### Install Ruby with RVM    
@@ -38,17 +38,17 @@ Now lets verify RVM was installed.
 Now install the most recent stable version of **Ruby** using RVM      
 <code>$ rvm install "ruby-2.7.0"</code>    
 
-Now then set that version as the default Ruby installation for our project    
+Then set that version as the default Ruby installation for our project    
 <code>$ rvm --default use 2.7.0</code>    
 
 Check that Ruby is set to the version we configured      
 <code>$ ruby -v</code>     
 
-And, now generate the core Ruby documentation:        
+And, now generate the core Ruby documentation        
 <code>$ rvm docs generate-ri</code>    
 
 ### Install Jekyll
-We are going to create a new project folder for our Jekyll site installation. Navigate to a folder where you want to locally install and work on your site (maybe a directory where you already have projects like this).    
+We are going to create a new project folder for our Jekyll site installation. Navigate to a folder where you want to locally install and work on your site (maybe a directory where you already have projects like this)     
 <code>$ cd documents/sites</code>    
 
 Create a new Jekyll project called "[your name]-project-site"    
@@ -64,7 +64,8 @@ We'll eventually use Bundler to install a theme for our website
 ### Serve and view your site
 Now navigate into that directory         
 <code>$ cd [your name]-project-site</code>    
-and start the server to see your blank site    
+
+And start the server to see your blank site    
 <code>$ jekyll serve</code>    
 
-Go to 127.0.0.1:4000 and you should see your new blank site!
+Now in your web browser (preferably FireFix or Chrome) go to the address 127.0.0.1:4000 and you should see your new blank site!
