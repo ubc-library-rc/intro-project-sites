@@ -64,11 +64,11 @@ And, now generate the core Ruby documentation
 We are going to create a new project folder for our Jekyll site installation. Navigate to a folder where you want to locally install and work on your site (maybe a directory where you already have projects like this)     
 <code>$ cd documents/sites</code>    
 
-Create a new Jekyll project called "[your name]-project-site"    
-<code>$ jekyll new [your name]-project-site</code>    
+Create a new Jekyll project called "[your-name]-project-site"    
+<code>$ jekyll new [your-name]-project-site</code>    
 
 And navigate into that new project    
-<code>$ cd [your name]-project-site</code>    
+<code>$ cd [your-name]-project-site</code>    
 
 ### Install Bundler
 We'll eventually use Bundler to install a theme for our website, so let's go ahead and install it       
@@ -76,7 +76,7 @@ We'll eventually use Bundler to install a theme for our website, so let's go ahe
 
 ### Serve and view your site
 Now navigate into that directory         
-<code>$ cd [your name]-project-site</code>    
+<code>$ cd [your-name]-project-site</code>    
 
 And start the server to see your blank site    
 <code>$ jekyll serve</code>    
