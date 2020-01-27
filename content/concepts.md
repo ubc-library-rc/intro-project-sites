@@ -2,7 +2,7 @@
 layout: default
 title: Concepts and Tools
 permalink: /concepts/
-parent: Outline
+parent: Summary
 nav_order: 1
 ---
 
@@ -11,8 +11,4 @@ nav_order: 1
 
 ### What are static sites?
 
-#### Static site generators
-
-### Anatomy of your Jekyll site
-
-#### Customize your _config.yaml
+### Static site generators

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Host Content with GitHub Pages
-permalink: /host-content/
-parent: Outline
-nav_order: 2
+title: GitHub Pages
+permalink: /gh-pages/
+parent: Summary
+nav_order: 4
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Add Content
-permalink: /add-content/
-parent: Outline
-nav_order: 2
+title: Creating Content
+permalink: /create-content/
+parent: Summary
+nav_order: 3
 ---
 
 

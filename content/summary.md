@@ -1,8 +1,8 @@
 ---
 layout: default
 nav_order: 3
-title: Outline
-permalink: /outline/
+title: Summary
+permalink: /summary/
 has_children: true
 has_toc: true
 ---
