@@ -10,6 +10,8 @@ nav_order: 3
 ## Add Content To Your Site
 
 ### Posts and Pages
-add a new folder, then a new page inside the directory
+Before we add content to our site, lets go over the two basic types of 
+
+### Styling Content
 
 ### Navigation

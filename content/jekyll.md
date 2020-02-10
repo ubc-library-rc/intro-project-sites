@@ -51,15 +51,15 @@ Many of the files listed here are used by Jekyll to "transform" your content int
 Now that we've looked at the content that makes up the default Jekyll site, let's take a look at the same content as it's rendered by your internet browser. Jekyll uses a web server to transform its content into a website. So in order to see your live site, you'll need to start a local web server to see the development site correctly in your browser.    
 
 In your Unix shell start your server using the command:    
-<code>$ jekyll serve</code>     
+<code>$ bundle exec jekyll serve</code>     
 
 Now head to [http://127.0.0.1:4000/](http://127.0.0.1:4000/){:target="_blank"} to see your site in your browser. You should see the default Jekyll site homepage and styling:    
 
 
-![site](/assets/img/blanksite1.png){: width="800" border="1"}
+![site](blanksite1.png){: width="800" border="1"}
 
 
 You may really like the way this default site looks and can use it as-is. Or, you might want to start building your own site from scratch. Each direction comes with its own costs and benefits. For this workshop, we're going to customize the default site and add some content. Then we'll show you how you can install themes that fit your project's look, feel, and desired functionality.    
 
 ### Customize your _config.yml
-Notice that your site's title and email are still set to the generic default. "Your awesome title", "your-email@example.com", and other settings can be re-configured in the <code>config.yml</code> file.
+Notice that your site's title and email are still set to the generic default. "Your awesome title", "your-email@example.com", and other settings can be re-configured in the <code>_config.yml</code> file.

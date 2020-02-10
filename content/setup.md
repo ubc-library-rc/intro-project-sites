@@ -60,8 +60,12 @@ Check that Ruby is set to the version we configured
 And, now generate the core Ruby documentation        
 <code>$ rvm docs generate-ri</code>    
 
-### Install Jekyll
-We are going to create a new project folder for our Jekyll site installation. Navigate to a folder where you want to locally install and work on your site (maybe a directory where you already have projects like this)     
+### Install Jekyll and Bundler gems   
+Now that you have a full Ruby dev environment installed, let's finish by installing Jekyll and Bundler    
+<code>$ gem install jekyll bundler</code>     
+
+We are going to create a new project folder for our Jekyll site installation. Navigate to a folder where you want to locally install and work on your site (maybe a directory where you already have projects like this)    
+
 <code>$ cd documents/sites</code>    
 
 Create a new Jekyll project called "[your-name]-project-site"    
@@ -70,15 +74,12 @@ Create a new Jekyll project called "[your-name]-project-site"
 And navigate into that new project    
 <code>$ cd [your-name]-project-site</code>    
 
-### Install Bundler
-We'll eventually use Bundler to install a theme for our website, so let's go ahead and install it       
-<code>$ gem install bundler</code>    
 
 ### Serve and view your site
 Now navigate into that directory         
 <code>$ cd [your-name]-project-site</code>    
 
 And start the server to see your blank site    
-<code>$ jekyll serve</code>    
+<code>$ bundle exec jekyll serve</code>    
 
 Now in your web browser (preferably FireFox or Chrome) go to the address 127.0.0.1:4000 and you should see your new blank site!
