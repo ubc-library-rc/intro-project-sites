@@ -56,10 +56,10 @@ In your Unix shell start your server using the command:
 Now head to [http://127.0.0.1:4000/](http://127.0.0.1:4000/){:target="_blank"} to see your site in your browser. You should see the default Jekyll site homepage and styling:    
 
 
-![Blank site](/assets/img/blanksite1.png){: width="800" border="1"}
+![site](/assets/img/blanksite1.png){: width="800" border="1"}
 
 
 You may really like the way this default site looks and can use it as-is. Or, you might want to start building your own site from scratch. Each direction comes with its own costs and benefits. For this workshop, we're going to customize the default site and add some content. Then we'll show you how you can install themes that fit your project's look, feel, and desired functionality.    
 
-### Customize your _config.yaml
+### Customize your _config.yml
 Notice that your site's title and email are still set to the generic default. "Your awesome title", "your-email@example.com", and other settings can be re-configured in the <code>config.yml</code> file.
