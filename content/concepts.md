@@ -6,7 +6,7 @@ parent: Summary
 nav_order: 1
 ---
 
-## Concepts and terms
+# Concepts and terms
 This section will introduce a few concepts and terms for you to be aware of before you begin configuring and creating your site.
 
 ### What are static sites?
@@ -31,7 +31,7 @@ Most of the interaction that you'll see on your site is powered by script which 
 **For this workshop we're going to stick to using HTML, Markdown, and CSS.**
 
 ## Learning
-- [Intro to Git and GitHub workshop](#)
-- [Intro to the Unix Shell workshop](https://ubc-library-rc.github.io/intro-shell/)
-- [Internetting is Hard (for HTML and CSS)](https://internetingishard.com/)
-- [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Intro to Git and GitHub workshop](https://jeremybuhler.github.io/rc-git/){:target="_blank"}
+- [Intro to the Unix Shell workshop](https://ubc-library-rc.github.io/intro-shell/){:target="_blank"}
+- [Internetting is Hard (for HTML and CSS)](https://internetingishard.com/){:target="_blank"}
+- [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
