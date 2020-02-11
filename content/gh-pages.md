@@ -12,26 +12,26 @@ Now that you have a Jekyll site set up locally in your system we are ready to ho
 
 Before we begin, log in to Github.com and create a new repository to have it ready. The new repository should have a name that relates to your site.
 
-1. From terminal, navigate into the site folder that you set up locally. Replace "your-site-folder-name" with the name of your Jekyll site folder.
+\1. From terminal, navigate into the site folder that you set up locally. Replace "your-site-folder-name" with the name of your Jekyll site folder.
 
 Input {: .label .label-green }
 ~~~
 cd your-site-folder-name
 ~~~
 
-2. Now you need to "initialize" the site folder which essentially tells Git that you want it to pay attention to this folder.
+\2. Now you need to "initialize" the site folder which essentially tells Git that you want it to pay attention to this folder.
 
 Input {: .label .label-green }
 ~~~
 git init your-site-folder-name
 ~~~
 
-
+Output {: .label .label-yellow }
 ~~~
 Initialized empty Git repository in /Users/yourusername/your-site-folder-name/.git/
 ~~~
 
-3. Change directory to this new local git repository that you made.
+\3. Change directory to this new local git repository that you made.
 
 Input {: .label .label-green }
 ~~~
@@ -56,26 +56,18 @@ nothing to commit (create/copy files and use "git add" to track)
 
 From this point you have a couple of options. Github Pages is set up to look at whichever folder you specify as the site folder. Originally Github Pages was intended to support documentation of projects on Github so a common name for a site folder is "docs" and this is reflected in the default source options under Settings > Github Pages for any new repository on Github. For this workshop we will ask Github Pages to look at the "master" branch for site files and will not create an additional docs folder. By doing this we are essentially telling Github that all of the files in our repository are relevant to this site.
 
-4. Add your "local" Jekyll site files to a "remote" branch -- the master branch of the new repository we made in Github. Replace "yourusername" with your Github username and "your-Github-repository" with the name of the repository that you made.
+\4. Add your "local" Jekyll site files to a "remote" branch -- the master branch of the new repository we made in Github. Replace "yourusername" with your Github username and "your-Github-repository" with the name of the repository that you made.
 
 Input {: .label .label-green }
 ~~~
 $ git remote add origin https://github.com/yourusername/your-Github-repository.git
 ~~~
 
-Output {: .label .label-yellow }
-~~~
-~~~
-
-5. Push your site up to Github. Note that if you had made a different branch you would replace "masteR" with the name of that branch.
+\5. Push your site up to Github. Note that if you had made a different branch you would replace "masteR" with the name of that branch.
 
 Input {: .label .label-green }
 ~~~
 git push -u origin master
-~~~
-
-Output {: .label .label-yellow }
-~~~
 ~~~
 
 ~~~
@@ -86,7 +78,7 @@ If you do not have any commits in your repository (eg. if you did not initialize
 git commit -m "initial commit".
 ~~~
 
-6. In Github, navigate to you repository landing page and then click "Settings".
+\6. In Github, navigate to you repository landing page and then click "Settings".
 Scroll down to the "Github Pages" section of settings and make sure that the site source is set to "master branch". If everything is working correctly you should see your site at a url that looks like: https://yourusername.github.io/your-repository-name/.
 
 
