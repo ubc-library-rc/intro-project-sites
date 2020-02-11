@@ -12,7 +12,7 @@ Now that you have a Jekyll site set up locally in your system we are ready to ho
 
 Before we begin, log in to Github.com and create a new repository to have it ready. The new repository should have a name that relates to your site.
 
-1) From terminal, navigate into the site folder that you set up locally. Replace "your-site-folder-name" with the name of your Jekyll site folder.
+1) From your terminal (the unix shell), navigate into the site folder that you set up locally. Replace "your-site-folder-name" with the name of your Jekyll site folder.
 
 Input
 {: .label .label-green}
