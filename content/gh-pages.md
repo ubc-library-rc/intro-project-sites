@@ -89,4 +89,4 @@ git commit -m "initial commit".
 Scroll down to the "Github Pages" section of settings and make sure that the site source is set to "master branch". If everything is working correctly you should see your site at a url that looks like: https://yourusername.github.io/your-repository-name/.
 
 
-[See also Github's documentation on this.](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll){target="_blank"}.
+[See also Github's documentation on this.](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll){:target="_blank"}.
