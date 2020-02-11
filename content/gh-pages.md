@@ -6,7 +6,7 @@ parent: Summary
 nav_order: 4
 ---
 
-## Host Content with GitHub Pages
+## Get your site online with GitHub Pages
 
 Now that you have a Jekyll site set up locally in your system we are ready to host through Github Pages.
 
@@ -14,38 +14,38 @@ Before we begin, log in to Github.com and create a new repository to have it rea
 
 1. From terminal, navigate into the site folder that you set up locally. Replace "your-site-folder-name" with the name of your Jekyll site folder.
 
-Input
+Input {: .label .label-green }
 ~~~
 cd your-site-folder-name
 ~~~
 
 2. Now you need to "initialize" the site folder which essentially tells Git that you want it to pay attention to this folder.
 
-Input
+Input {: .label .label-green }
 ~~~
 git init your-site-folder-name
 ~~~
 
-Output
+
 ~~~
 Initialized empty Git repository in /Users/yourusername/your-site-folder-name/.git/
 ~~~
 
 3. Change directory to this new local git repository that you made.
 
-Input
+Input {: .label .label-green }
 ~~~
 cd your-site-folder-name
 ~~~
 
 To check that everything is okay and that git is initialized you can enter "git status" and you should see a message that tells you what branch you are on and what commits have been made (none).
 
-Input
+Input {: .label .label-green }
 ~~~
 git status
 ~~~
 
-Output
+Output {: .label .label-yellow }
 ~~~
 On branch master
 
@@ -58,27 +58,30 @@ From this point you have a couple of options. Github Pages is set up to look at 
 
 4. Add your "local" Jekyll site files to a "remote" branch -- the master branch of the new repository we made in Github. Replace "yourusername" with your Github username and "your-Github-repository" with the name of the repository that you made.
 
-Input
+Input {: .label .label-green }
 ~~~
 $ git remote add origin https://github.com/yourusername/your-Github-repository.git
 ~~~
 
-Output
+Output {: .label .label-yellow }
 ~~~
 ~~~
 
 5. Push your site up to Github. Note that if you had made a different branch you would replace "masteR" with the name of that branch.
 
-Input
+Input {: .label .label-green }
 ~~~
 git push -u origin master
 ~~~
 
-Output
+Output {: .label .label-yellow }
 ~~~
 ~~~
 
+~~~
 If you do not have any commits in your repository (eg. if you did not initialize it with a README) you might run into an error. To get around this make an initial commit.
+{: .note}
+~~~
 ~~~
 git commit -m "initial commit".
 ~~~
