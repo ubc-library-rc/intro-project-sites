@@ -17,3 +17,5 @@ The quickest and easiest way to change your theme for this is to use the default
 You can also quickly and easily change the domain of your site to a custom domain that you have purchased elsewhere.
 
 ![Set a custom domain in Github settings](set-custom-domain.png)
+
+We  will not be going through this but Github has excellent documentation on [managing custom domains for github pages sites](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site){target="_blank"}.
