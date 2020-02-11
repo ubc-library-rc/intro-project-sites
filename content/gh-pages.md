@@ -78,10 +78,9 @@ Input
 git push -u origin master
 ~~~
 
-~~~
 If you do not have any commits in your repository (eg. if you did not initialize it with a README) you might run into an error. To get around this make an initial commit.
 {: .note}
-~~~
+
 ~~~
 git commit -m "initial commit".
 ~~~
