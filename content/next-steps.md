@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Setting a different theme
 
-The quickest and easiest way to change your theme for this is to use the default "Theme Chooser" in Github which comes with a small selection of well maintained default themes.
+The quickest and easiest way to change your theme for this is to use the default "Theme Chooser" in Github under "Settings > Github Pages" which comes with a small selection of well maintained default themes.
 
 ![Theme Chooser in Github settings](theme-chooser.png)
 
