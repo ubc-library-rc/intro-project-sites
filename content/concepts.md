@@ -3,7 +3,7 @@ layout: default
 title: Concepts and Terms
 permalink: /concepts/
 parent: Summary
-nav_order: 1
+nav_order: 2
 ---
 
 # Concepts and terms

@@ -3,7 +3,7 @@ layout: default
 title: Next Steps
 permalink: /next-steps/
 parent: Summary
-nav_order: 5
+nav_order: 6
 ---
 
 ## Setting a different theme

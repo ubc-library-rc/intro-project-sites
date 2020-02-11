@@ -2,7 +2,8 @@
 layout: page
 title: Setup
 permalink: /setup/
-nav_order: 2
+parent: Summary
+nav_order: 1
 ---
 # Setting up your system
 For this workshop, we'll build a site locally first, then publish it to the web when we're ready and have some content. In order to work locally, we have to make sure that our computer has all the necessary software installed. Jekyll needs a full Ruby development environment so we'll need to make sure we have that configured correctly first.

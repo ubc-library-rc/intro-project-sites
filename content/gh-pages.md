@@ -3,7 +3,7 @@ layout: default
 title: GitHub Pages
 permalink: /gh-pages/
 parent: Summary
-nav_order: 4
+nav_order: 5
 ---
 
 ## Get your site online with GitHub Pages

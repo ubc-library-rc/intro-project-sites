@@ -1,8 +1,8 @@
 ---
 layout: default
 nav_order: 3
-title: Summary
-permalink: /summary/
+title: Outline
+permalink: /outline/
 has_children: true
 has_toc: true
 ---
@@ -18,7 +18,6 @@ This is your session. If you have a question or feel we are going too fast, plea
 
 | Time | Content
 | --- | ---
-| 0:00 | [Intro](setup.md)
 | 0:05 | [Setting up your system](setup.md)
 | 0:30 | [Concepts and tools](concepts.md)
 | 0:45 | [What is Jekyll?](jekyll.md)
