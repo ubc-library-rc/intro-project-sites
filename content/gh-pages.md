@@ -85,7 +85,7 @@ If you do not have any commits in your repository (eg. if you did not initialize
 git commit -m "initial commit".
 ~~~
 
-6) In Github, navigate to you repository landing page and then click "Settings".
+6) In Github, navigate to your repository landing page and then click "Settings".
 Scroll down to the "Github Pages" section of settings and make sure that the site source is set to "master branch". If everything is working correctly you should see your site at a url that looks like: https://yourusername.github.io/your-repository-name/.
 
 
