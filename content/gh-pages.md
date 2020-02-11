@@ -70,7 +70,7 @@ Input
 $ git remote add origin https://github.com/yourusername/your-Github-repository.git
 ~~~
 
-5) Push your site up to Github. Note that if you had made a different branch you would replace "masteR" with the name of that branch.
+5) Push your site up to Github. Note that if you had made a different branch you would replace "master" with the name of that branch.
 
 Input
 {: .label .label-green}
