@@ -57,18 +57,17 @@ $ bundle exec jekyll serve
 
 Now head to [http://127.0.0.1:4000/](http://127.0.0.1:4000/){:target="_blank"} to see your site in your browser. You should see the default Jekyll site homepage and styling:    
 
-
 ![site](blanksite1.png){: border="1"}
-
 
 You may really like the way this default site looks and can use it as-is. Or, you might want to start building your own site from scratch. Each direction comes with its own costs and benefits. For this workshop, we're going to customize the default site and add some content. Then we'll show you how you can install themes that fit your project's look, feel, and desired functionality.    
 
 ### Customize your _config.yml
+
 Notice that your site's title and email are still set to the generic default. "Your awesome title", "your-email@example.com", and other settings can be re-configured in the <code>_config.yml</code> file. A .yml (pronounced "yammel") file is a text file that contains structured markup that Ruby consumes and understands. All of the text in the <code>_config.yml</code> is site configuration information.       
 
 In your code editor, open your <code>_config.yml</code> file. You should see the text that makes up this file – something like:
 
-```
+~~~
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -84,8 +83,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-```     
+~~~   
 
 Here you can see some of the configuration settings of your Jekyll site, including your title and email. Change the site's title to "**[your name]'s Project Site**", and the email address to your email's.    
 
-Save your document and refresh your browser. You should see the changes reflected on your local site.    
+Save your document and refresh your browser. You should see the changes reflected on your local site.
