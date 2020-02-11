@@ -60,7 +60,7 @@ No commits yet
 nothing to commit (create/copy files and use "git add" to track)
 ~~~
 
-From this point you have a couple of options. Github Pages is set up to look at whichever folder you specify as the site folder. Originally Github Pages was intended to support documentation of projects on Github so a common name for a site folder is "docs" and this is reflected in the default source options under Settings > Github Pages for any new repository on Github. For this workshop we will ask Github Pages to look at the "master" branch for site files and will not create an additional docs folder. By doing this we are essentially telling Github that all of the files in our repository are relevant to this site.
+From this point you have a couple of options. Github Pages is set up to look at whichever folder you specify as the site folder. For this workshop we will ask Github Pages to look at the "master" branch for site files and will not create an additional docs folder. By doing this we are essentially telling Github that all of the files in our repository are relevant to this site.
 
 4) Add your "local" Jekyll site files to a "remote" branch -- the master branch of the new repository we made in Github. Replace "yourusername" with your Github username and "your-Github-repository" with the name of the repository that you made.
 
