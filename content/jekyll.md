@@ -51,7 +51,9 @@ Many of the files listed here are used by Jekyll to "transform" your content int
 Now that we've looked at the content that makes up the default Jekyll site, let's take a look at the same content as it's rendered by your internet browser. Jekyll uses a web server to transform its content into a website. So in order to see your live site, you'll need to start a local web server to see the development site correctly in your browser.    
 
 In your Unix shell start your server using the command:    
-<code>$ bundle exec jekyll serve</code>     
+~~~
+$ bundle exec jekyll serve
+~~~    
 
 Now head to [http://127.0.0.1:4000/](http://127.0.0.1:4000/){:target="_blank"} to see your site in your browser. You should see the default Jekyll site homepage and styling:    
 
