@@ -28,7 +28,7 @@ Styling your site's look and feel – like making text a certain typeface, round
 #### Interaction and automation
 Most of the interaction that you'll see on your site is powered by script which runs on certain events when a page loads or is scrolled, a button is clicked, a mouse hovers an object, etc. **JavaScript** is one very common scripting languages used in the web, and it integrates very well with static sites.     
 
-**For this workshop we're going to stick to using HTML, Markdown, and CSS.**
+**For this workshop we're going to stick to Markdown.**
 
 ## Learning
 - [Intro to Git and GitHub workshop](https://jeremybuhler.github.io/rc-git/){:target="_blank"}
