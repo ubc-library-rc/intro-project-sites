@@ -2,8 +2,8 @@
 layout: default
 title: Concepts and Terms
 permalink: /concepts/
-parent: Summary
-nav_order: 2
+parent: Outline
+nav_order: 1
 ---
 
 # Concepts and terms
