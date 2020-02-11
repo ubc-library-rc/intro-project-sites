@@ -14,6 +14,11 @@ This workshop is meant to give you the skills to create and publish a static web
 - Some experience working with code syntax and code editors is helpful.
 - A GitHub.com account. We'll use GitHub Pages to host our static site.
 
+<<<<<<< HEAD
 
 Unless you have a GitHub Pro account, the information that you publish to your GitHub.com account will be publicly visible.
 {: .warning}
+=======
+Unless you set your Github repository to private, the information that you publish to your GitHub.com account will be publicly visible. As of 2019, Github allows unlimited private repositories for free accounts.
+{: .warn}
+>>>>>>> 87b2d1120fa808976eaf9e29ca628a0f264be66b
