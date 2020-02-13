@@ -22,7 +22,11 @@ Windows isn't technically a Jekyll-supported platform, but we do have two option
 This option is for Windows 10 users only. On Windows 10, you can install and enable the [Windows Subsection for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10?redirectedfrom=MSDN). This option might be useful to set up if you anticipate working on other projects that would require the Unix Shell.     
 **[Follow these instructions for option 2](https://jekyllrb.com/docs/installation/windows/#installation-via-bash-on-windows-10)**.
 
-
+Once you have completed these steps check that you have Git installed by typing:
+~~~
+git --version
+~~~
+If you do not have Git installed, [download it from here.](https://git-scm.com/download/win).
 
 ## Mac OS
 The Mac operating system needs the Xcode suite to run several tools developers use to create software and applications. So to start, let's install it from the command line if you don't already have it.
