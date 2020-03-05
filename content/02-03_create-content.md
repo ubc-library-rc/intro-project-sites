@@ -2,7 +2,7 @@
 layout: default
 title: Creating Content
 permalink: /create-content/
-parent: Outline
+parent: Part 2
 nav_order: 4
 ---
 

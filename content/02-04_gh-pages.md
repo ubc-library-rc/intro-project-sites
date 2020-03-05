@@ -2,7 +2,7 @@
 layout: default
 title: GitHub Pages
 permalink: /gh-pages/
-parent: Outline
+parent: Part 2
 nav_order: 5
 ---
 

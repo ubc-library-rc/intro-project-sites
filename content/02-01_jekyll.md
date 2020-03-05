@@ -2,7 +2,7 @@
 layout: default
 title: What is Jekyll?
 permalink: /jekyll/
-parent: Outline
+parent: Part 2
 nav_order: 3
 ---
 # What is Jekyll?

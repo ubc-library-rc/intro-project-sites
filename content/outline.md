@@ -18,9 +18,13 @@ This is your session. If you have a question or feel we are going too fast, plea
 
 | Time | Content
 | --- | ---
-| 0:05 | [Setting up your system](setup.md)
+| Part 1
 | 0:30 | [Concepts and tools](concepts.md)
+| 0:05 | [Setting up your first website](setup-part1.md)
+| 1:15 | [Hosting with GitHub Pages](gh-pages.md)
+| Part 2
 | 0:45 | [What is Jekyll?](jekyll.md)
+| 0:05 | [Setting up your system](setup-part2.md)
 | 1:00 | [Creating Content](create-content.md)
 | 1:15 | [Hosting with GitHub Pages](gh-pages.md)
 | 1:25 | [Next Steps](next-steps.md)

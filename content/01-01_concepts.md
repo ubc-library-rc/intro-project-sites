@@ -2,7 +2,7 @@
 layout: default
 title: Concepts and Terms
 permalink: /concepts/
-parent: Outline
+parent: Part 1
 nav_order: 1
 ---
 
