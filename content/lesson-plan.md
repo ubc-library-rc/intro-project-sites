@@ -18,16 +18,14 @@ This is your session. If you have a question or feel we are going too fast, plea
 
 | Time | Content
 | --- | ---
-| Part 1
-| 0:30 | [Concepts and tools](concepts.md)
-| 0:05 | [Setting up your first website](setup-part1.md)
-| 1:15 | [Hosting with GitHub Pages](gh-pages.md)
-| Part 2
-| 0:45 | [What is Jekyll?](jekyll.md)
-| 0:05 | [Setting up your system](setup-part2.md)
-| 1:00 | [Creating Content](create-content.md)
-| 1:15 | [Hosting with GitHub Pages](gh-pages.md)
-| 1:25 | [Next Steps](next-steps.md)
-| 1:30 | Wrap-up
-
+| [Part 1](part-01.md) |
+| 0:05 | [Concepts and terms](concepts.md)
+| 0:10 | [Getting a site up](setup-part1.md)
+| 0:15 | [Customizing your site](customizing.md)
+| [Part 2](part-02.md) |
+| 0:25 | [What is Jekyll?](jekyll.md)
+| 0:35 | [Setting up your system](setup-part2.md)
+| 1:10 | [Creating Content](create-content.md)
+| 1:20 | [Hosting with GitHub Pages](gh-pages.md)
+| 1:30 | [Next steps and wrap up](next-steps.md)
 _Actual schedule may vary depending on group needs_
