@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Setup
-permalink: /setup/
-parent: Outline
+permalink: /setup2/
+parent: Part 2
 nav_order: 2
 ---
 # Setting up your system

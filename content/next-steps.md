@@ -2,7 +2,7 @@
 layout: default
 title: Next Steps
 permalink: /next-steps/
-parent: Outline
+parent: Part 2
 nav_order: 6
 ---
 

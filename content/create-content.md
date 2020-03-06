@@ -3,10 +3,8 @@ layout: default
 title: Creating Content
 permalink: /create-content/
 parent: Part 2
-nav_order: 4
+nav_order: 3
 ---
-
-
 # Add Content To Your Site
 
 ## Posts and Pages
