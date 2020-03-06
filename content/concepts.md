@@ -2,10 +2,9 @@
 layout: default
 title: Concepts and Terms
 permalink: /concepts/
-parent: Part 1
+parent: Part 1: The Basics
 nav_order: 1
 ---
-
 # Concepts and terms
 This section will introduce a few concepts and terms for you to be aware of before you begin configuring and creating your site.
 
