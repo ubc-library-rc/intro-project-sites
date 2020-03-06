@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Setting up a quick project site
-permalink: /part-01/
+title: Getting a site up
+permalink: /simple-project-site/
 parent: Part 1 - The basics
 nav_order: 2
 ---
