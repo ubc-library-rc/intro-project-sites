@@ -2,7 +2,7 @@
 layout: default
 title: GitHub Pages
 permalink: /gh-pages/
-parent: Part 2, Diving deeper
+parent: Part 2 - Diving deeper
 nav_order: 5
 ---
 

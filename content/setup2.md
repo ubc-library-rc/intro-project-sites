@@ -2,7 +2,7 @@
 layout: page
 title: Setting up your system
 permalink: /setup2/
-parent: Part 2, Diving deeper
+parent: Part 2 - Diving deeper
 nav_order: 2
 ---
 # Setting up your system
