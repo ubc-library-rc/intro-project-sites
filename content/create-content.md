@@ -2,7 +2,7 @@
 layout: default
 title: Creating Content
 permalink: /create-content/
-parent: Part 2: Diving deeper
+parent: Part 2, Diving deeper
 nav_order: 3
 ---
 # Add Content To Your Site
