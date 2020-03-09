@@ -9,4 +9,4 @@ nav_order: 2
 
 For this section of the workshop we will be stepping through the documentation provided by Github Pages.
 
-<a href="https://pages.github.com/">Jump to tutorial.</a>
+<a href="https://pages.github.com/" target="_blank">Jump to tutorial.</a>
