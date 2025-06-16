@@ -88,4 +88,5 @@ plugins:
 Here you can see some of the configuration settings of your Jekyll site, including your title and email. Change the site's title to "**[your name]'s Project Site**", and the email address to your email's.    
 
 Save your document and refresh your browser. You should see the changes reflected on your local site.
+
 Do note, if you make changes to the .yml file, you will need to restart the server.
