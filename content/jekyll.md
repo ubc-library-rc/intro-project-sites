@@ -3,7 +3,7 @@ layout: default
 title: What is Jekyll?
 permalink: /jekyll/
 parent: Part 2 - Diving deeper
-nav_order: 1
+nav_order: 2
 ---
 # What is Jekyll?
 Jekyll is a popular site generator that transforms plain text documents (Markdown, HMTL, CSS, etc.) into static sites that can easily be used for blogs and informational websites. Jekyll works very well with traditional Git and GitHub workflows, and so if you are already familiar with those, Jekyll site building will seem straightforward. If you aren't, don't worry – this workshop is meant for beginners. Jekyll is written in Ruby and so you'll notice some Ruby-specific terminology (like "Gems").
