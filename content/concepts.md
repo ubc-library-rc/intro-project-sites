@@ -30,7 +30,6 @@ Most of the interaction that you'll see on your site is powered by script which 
 **For this workshop we're going to stick to Markdown.**
 
 ## Learning
-- [Intro to Git and GitHub workshop](https://jeremybuhler.github.io/rc-git/){:target="_blank"}
+- [Intro to Git and GitHub workshop](https://ubc-library-rc.github.io/intro-git/){:target="_blank"}
 - [Intro to the Unix Shell workshop](https://ubc-library-rc.github.io/intro-shell/){:target="_blank"}
-- [Internetting is Hard (for HTML and CSS)](https://internetingishard.com/){:target="_blank"}
 - [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}
