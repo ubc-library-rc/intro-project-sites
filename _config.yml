@@ -1,3 +1,16 @@
-title: Project Websites
-remote_theme: ubc-library-rc/rc-workshop-template
+title: Project Websites with Jekyll and GitHub Pages
+remote_theme: ubc-library-rc/rc-theme
+color_scheme: rc
 footer_content: "<a href=\"https://github.com/ect123/project-site-ghpages-jekyll-workshop\">View workshop content in GitHub</a>"
+github_repo_url: "https://github.com/ubc-library-rc/intro-project-sites" 
+
+# license information for workshop content
+license_name: "Creative Commons Attribution 4.0 International License"
+license_url: "http://creativecommons.org/licenses/by/4.0/"
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+
+# required for building jekyll site locally
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache
